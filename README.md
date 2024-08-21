@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Jathurshan</h1>
+<h1 align="center">Hi 👋, I'm Ifham Aakil</h1>
 <h3 align="center">A passionate Computer Enginner from Srilanka</h3>
 
 <img align="right" alt="coding" width="400" src="./img.gif">
